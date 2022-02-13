@@ -16,3 +16,7 @@
 
 ⚡ Fun fact: ...
 
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Data Structure & Algorithm
+- 💞️ I’m looking to collaborate on Web Development Projects and DSA Projects.
+- 📫 How to reach me https://www.linkedin.com/in/anjani-banjare-1a98ab191
